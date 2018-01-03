@@ -11,9 +11,9 @@ If using Piromoroni's kit, sudo is necessary:
 
 **sudo python cheerlights.py**
 
-
-Cheerlights is a colaborative IoT project. Everytime some one changes the color, every device around the world 
-(and then outside too) connected to Cheerlights will lit the same color.
+## About
+Cheerlights is a colaborative IoT project. Everytime someone changes the color, every device around the world 
+(and outside too) connected to Cheerlights API will display the same color.
 
 More info on: http://cheerlights.com/
 

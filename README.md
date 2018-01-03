@@ -1,11 +1,11 @@
-#Cheerlights using Python and Pimoroni's Mood light
+# Cheerlights using Python and Pimoroni's Mood light
 
 This is my take using Python and Pimoroni's Mood light kit
 
 The main difference is there's transitions from one colour to another
 instead of just put the new color there
 
-Just run the example.
+## Running
 
 If using Piromoroni's kit, sudo is necessary:
 

@@ -1,6 +1,6 @@
-#Cheerlights using Python and Pimoroni's Mood light#
+#Cheerlights using Python and Pimoroni's Mood light
 
-##This is my take using Python and Pimoroni's Mood light kit##
+This is my take using Python and Pimoroni's Mood light kit
 
 The main difference is there's transitions from one colour to another
 instead of just put the new color there
@@ -21,7 +21,7 @@ Pimoroni's Mood Light:
 https://shop.pimoroni.com/collections/kits/products/mood-light-pi-zero-w-project-kit
 
 
-## Run automatically on Raspberry PI start ##
+## Run automatically on Raspberry PI start 
 
 Just added to cron
 

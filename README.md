@@ -8,17 +8,15 @@ instead of just put the new color there
 ## Installing
 If using the Pimoroni's Unicorn PHAT HD, the libraries are needed
 
-```
-sudo apt-get install python-unicornhathd python3-unicornhathd
-```
+
+    sudo apt-get install python-unicornhathd python3-unicornhathd
+
 
 ## Running
 
 If using Piromoroni's kit, sudo is necessary:
 
-```
-**sudo python cheerlights.py**
-```
+    **sudo python cheerlights.py**
 
 ## About
 Cheerlights is a colaborative IoT project. Everytime someone changes the color, every device around the world 

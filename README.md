@@ -5,14 +5,11 @@ This is my take using Python and Pimoroni's Mood light kit with a Raspberry PI Z
 The main difference is there's transitions from one colour to another
 instead of just put the new color there
 
-## Installing (Python2 and Python3)
+## Installing
 ### Required libraries
-#### Requests - python2
+#### Requests
 	sudo apt-get install requests
 
-#### Requests - python3
-	sudo apt-get install python3-pip
-	sudo pip3 install requests
     
 If using the Pimoroni's Unicorn PHAT HD, the libraries are needed. You can check their github page for instructions:
 https://github.com/pimoroni/unicorn-hat
@@ -24,9 +21,6 @@ If using Piromoroni's kit, sudo is necessary:
 
 	sudo python cheerlights.py
 	
-for Python3
-
-	sudo python3 cheerlights.py
 
 ## About
 Cheerlights is a colaborative IoT project. Everytime someone changes the color, every device around the world 
@@ -36,8 +30,6 @@ More info on: http://cheerlights.com/
 
 Pimoroni's Mood Light:
 https://shop.pimoroni.com/collections/kits/products/mood-light-pi-zero-w-project-kit
-
-
 
 
 ## Run automatically on Raspberry PI start 

@@ -25,6 +25,7 @@ If using Piromoroni's kit, sudo is necessary:
 	**sudo python cheerlights.py**
 	
 for Python3
+
 	**sudo python3 cheerlights.py**
 
 ## About

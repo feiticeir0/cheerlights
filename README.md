@@ -22,11 +22,11 @@ https://github.com/pimoroni/unicorn-hat
 
 If using Piromoroni's kit, sudo is necessary:
 
-	**sudo python cheerlights.py**
+	sudo python cheerlights.py
 	
 for Python3
 
-	**sudo python3 cheerlights.py**
+	sudo python3 cheerlights.py
 
 ## About
 Cheerlights is a colaborative IoT project. Everytime someone changes the color, every device around the world 
